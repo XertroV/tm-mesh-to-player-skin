@@ -1,0 +1,3 @@
+*.bin
+*.Gbx
+__pycache__
